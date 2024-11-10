@@ -8,7 +8,7 @@
 </head>
 <body>
     {{-- navbar --}}
-    
+    @include('partials.navbar')
 
     {{-- content --}}
     <div>
